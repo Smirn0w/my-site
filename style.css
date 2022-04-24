@@ -33,17 +33,29 @@ body {
   color: #222222;
   text-decoration: none;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
+  font-size: 50px; /*высота текста и иконок*/
 }
 
 .header-email {
-  padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  padding-left: 50px;
+  background-image: url("img/icon-email.png");
 }
 
-.header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+.github {
+  padding-left: 50px;
+  background-image: url("img/icon-github.svg");
+
+}
+
+.telegram {
+  padding-left: 50px;
+  background-image: url("img/icon-telegram.svg");
+}
+
+.instagram {
+  padding-left: 50px;
+  background-image: url("img/icon-instagram.svg");
 }
 
 .hero-image {
@@ -173,6 +185,7 @@ body {
   padding: 40px 0;
   background-color: #FFFFFF;
   color: #ffffff;
+  font-size: 50px;
 }
 
 .page-footer a {
