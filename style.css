@@ -176,9 +176,9 @@ body {
   vertical-align: baseline;
   text-decoration: none;
   text-transform: uppercase;
-  border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+  border: solid;
+  border-radius: 20px;
+  color: black;
 }
 
 .page-footer {
